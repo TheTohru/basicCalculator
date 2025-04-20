@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Please check README.md before using codes!
 public class addition {
     public void Addition() {
         try {
