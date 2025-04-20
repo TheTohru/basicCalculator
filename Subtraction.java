@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Please check README.md before using codes!
 public class Subtraction {
     public void subtraction() {
         Scanner scanner = new Scanner(System.in);
