@@ -5,6 +5,7 @@ It is a simple console calculator made for java. After C# language, I did some w
 
 If you notice any errors please let me know.
 
+Also, there are only a few lines of code that are different in the codes I wrote, other than that it is almost the same. But make sure you use the files correctly.
 If you want to use it, follow the instructions I wrote below:
 
 name of all files
