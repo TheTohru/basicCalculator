@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Please check README.md before using codes!
 public class Division {
     public void division(){
         Scanner scanner = new Scanner(System.in);
